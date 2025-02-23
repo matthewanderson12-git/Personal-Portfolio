@@ -1,4 +1,4 @@
-SQL Projects:
+# SQL Projects:
 Welcome to my SQL project repository! This collection showcases my proficiency in SQL through a range of projects focused on data querying, manipulation, and analysis. 
 Each project demonstrates my ability to write efficient queries, handle complex data scenarios, and extract valuable insights from structured data.
 
